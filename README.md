@@ -1,2 +1,2 @@
 # tetrode-gui
-A Matlab GUI to explore tetrode-array data on electrophysiology experiments
+A simple Matlab GUI to explore tetrode-array data on electrophysiology experiments
